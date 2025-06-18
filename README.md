@@ -15,14 +15,11 @@ Tech Used
 - CSS
 - JavaScript
 
-Home page:
-
-
-About us:
+Home page:![Home](https://github.com/user-attachments/assets/282b13dc-dbd6-4f8a-9f85-194a4c16e67e)
 
 
 
-
+About us:![about](https://github.com/user-attachments/assets/dfb03f30-ced2-4a81-8ce7-1da34e218a93)
 
 
 
@@ -31,11 +28,19 @@ About us:
 
 
 
-Menu:
 
-Service:
 
-Contact:
+
+
+
+Menu:![menu](https://github.com/user-attachments/assets/0ed14842-c3ad-44d0-a3b0-aa8e0095163b)
+
+
+Service:![services](https://github.com/user-attachments/assets/e3f7575c-deb6-4f33-a899-154b5865a1e9)
+
+
+Contact:![contact](https://github.com/user-attachments/assets/4d987a85-8b93-4079-815e-e1f3af37b909)
+
 
 
 
