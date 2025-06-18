@@ -43,9 +43,3 @@ Contact:![contact](https://github.com/user-attachments/assets/4d987a85-8b93-4079
 
 
 
-
-Author
- Vangala Ashish  
- ashishvangala20@gmail.com  
- +91 8008266630  
- [GitHub](https://github.com/ashishhh2005)
